@@ -1,0 +1,19 @@
+{
+  "name": "puppet",
+  "version": "1.0.0",
+  "description": "Web scrapping with Puppeteer",
+  "main": "puppet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WAR776EN/PAYOK.git"
+  },
+  "author": "bobsam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WAR776EN/PAYOK/issues"
+  },
+  "homepage": "https://github.com/WAR776EN/PAYOK#readme"
+}
